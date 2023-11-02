@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Permisos3</string>
+    <string-array name="permisos_txt">
+        <item>Camara</item>
+        <item>Microfono</item>
+        <item>Ubicacion</item>
+    </string-array>
+
+    <string-array name="permissions">
+        <item>android.permission.CAMERA</item>
+        <item>android.permission.RECORD_AUDIO</item>
+        <item>android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+
+
+</resources>
